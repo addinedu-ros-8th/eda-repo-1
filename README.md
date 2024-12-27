@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=timeGradient&height=200&section=header&text=영화산업%20이대로%20괜찮은가?&fontColor=ffffff&fontAlign=63&fontAlignY=30&animation=twinkling&fontSize=50&desc=Team1.%20EDA%20Project&descSize=30&descAlign=80)
 
-## :dart: 주제 : OTT 서비스 변화에 따른 영화 관객 수 및 흥행 장르 변화
+## :dart: 주제 : OTT 서비스에 따른 영화 산업의 변화
 > 배우 황정민 수상 소감 中
 >   > 영화가 많이 제작이 안 되고 조금 어렵긴 하지만...                
 이 배우는 왜 이렇게 말을 했을까?
@@ -9,14 +9,14 @@
 <img src="https://github.com/user-attachments/assets/31b5d722-1fc4-4ff7-853f-47ce0e9342e4" width="400" height="150"/>  <img src="https://github.com/user-attachments/assets/4a088b2b-8f3b-428f-af94-6e80da0ae8af" width="400" height="150"/>                               
 <img src="https://github.com/user-attachments/assets/dbde6505-4fc0-4162-ae8f-9d26b3fe32e5" width="400" height="150"/>  <img src="https://github.com/user-attachments/assets/4d815d95-13ca-4500-b2dd-799223fd65f2" width="400" weight="150/">
 
-위의 뉴스 헤드에서 영화 산업이 그리 좋지 않은 상황이라는 것을 알 수 있다.        
+위의 뉴스 헤드에서 영화 산업이 그리 좋지 않은 상황이라는 것을 알 수 있다.                                   
 그렇다면 영화 산업에서 주가는 어떨까??           
 
 ![image](https://github.com/user-attachments/assets/f08fa30f-c3fa-4917-8a81-dbeb8048e529)
 
 주가도 별로 상황이 좋지 않아 보인다.
 그 이유는 무엇일까??             
-우리 1팀은 위와 같은 영화 산업 부진의 이유를 OTT의 흥행으로 보고 데이터를 분석하여 시각화하고 그 해결법을 모색해 보았다.       
+우리 1팀은 위와 같은 영화 산업 부진의 이유를 OTT의 흥행으로 보고 그에 따른 **영화 전체 매출, 특별 상영관 매출, 장르 별 매출** 을 분석해 시각화하였다.
 ***
 ### :computer: Skill Set
 |Categories|SKills|

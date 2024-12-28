@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=timeGradient&height=200&section=header&text=영화산업%20이대로%20괜찮은가?&fontColor=ffffff&fontAlign=63&fontAlignY=30&animation=twinkling&fontSize=50&desc=Team1.%20EDA%20Project&descSize=30&descAlign=80)
 
-## :dart: 주제 : OTT 서비스에 따른 영화 산업의 변화
+# :dart: 주제 : OTT 서비스에 따른 영화 산업의 변화
 > 배우 황정민 수상 소감 中
 >   > 영화가 많이 제작이 안 되고 조금 어렵긴 하지만...                
 이 배우는 왜 이렇게 말을 했을까?
@@ -18,7 +18,7 @@
 그 이유는 무엇일까??             
 우리 1팀은 위와 같은 영화 산업 부진의 이유를 OTT의 흥행으로 보고 그에 따른 **영화 전체 매출, 특별 상영관 매출, 장르 별 매출** 을 분석해 시각화하였다.
 ***
-### :computer: Skill Set
+## :computer: Skill Set
 |Categories|SKills|
 |------|------|
 |IDE|![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=plastic&logo=linux&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/ubuntu-22.04-grey?style=plastic&logo=ubuntu&logoColor=ffffff&labelColor=%23E95420) ![Static Badge](https://img.shields.io/badge/vsCode-%232185D0?style=plastic&logo=vscode&logoColor=ffffff) |
@@ -28,11 +28,11 @@
 |Analyzing&Visualization|![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=plastic&logo=numpy&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=plastic&logo=pandas&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/matplotlib-grey?style=plastic&logo=matplotlib&logoColor=ffffff)|
 |Cooperation Tools|![Static Badge](https://img.shields.io/badge/jira-%230052CC?style=plastic&logo=jira&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/confluence-%23172B4D?style=plastic&logo=confluence&logoColor=ffffff)|
 
-데이터 출처 : [영화 관람객 데이터-KOBIS](https://www.kobis.or.kr/kobis/business/stat/boxs/findYearlyBoxOfficeList.do), [OTT 서비스 이용 데이터-방송통신위원회](https://kcc.go.kr/user.do;jsessionid=49R9Ts8hWujamVPcMQChnvSI9ZFh3vOFNXQJk9CY.servlet-aihgcldhome10?mode=view&page=A05030000&dc=&boardId=1113&cp=1&nop=10&ctx=ALL&searchKey=TITLE&searchVal=OTT&boardSeq=64815)
+데이터 출처 : [영화 관람객 데이터-KOBIS](https://www.kobis.or.kr/kobis/business/stat/boxs/findYearlyBoxOfficeList.do), [OTT 서비스 이용 데이터-방송통신위원회](https://kcc.go.kr/user.do?mode=view&page=A05030000&dc=&boardId=1113&cp=1&nop=10&ctx=ALL&searchKey=TITLE&searchVal=OTT&boardSeq=64815)
 
 ***
 
-### :hourglass_flowing_sand: 프로젝트 설계 및 개발 계획
+## :hourglass_flowing_sand: 프로젝트 설계 및 개발 계획
 - 소주제1 : OTT 서비스 흥행이 정말로 영화관의 매출에 크나큰 영향을 미치는가??
 - 소주제2 : OTT 서비스 흥행에 따른 장르 별 영화 매출이 다를까?? (장르별 흥행 및 매축액 차이가 OTT 전/후에 변화가 있는가)
 - 소주제3 : OTT 서비스 흥행에 따른 상영관 별 영화 매출이 다를까?? (특별 상영관과 일반 상영관의 매출액 차이가 OTT 전/후에 변화가 있는가)
@@ -46,7 +46,7 @@
 |24.12.28 ~ 24.12.30|데이터 분석 및 시각화|
 |24.12.31 ~ 24.01.02|최종 정리 및 발표자료 작성, GitHub 정리|
 
-### :sparkles: 구성원 및 역할
+## :sparkles: 구성원 및 역할
 |구성원|역할|
 |-----|-----|
 |심재헌(팀장)| OTT 흥행에 따른 상영관 별 영화 매출 데이터 분석 및 시각화, AWS DB 관리|
@@ -55,12 +55,26 @@
 
 ***
 
-### :bar_chart: 결과 브리핑
+## :bar_chart: 결과 브리핑
 
 ***
 
-### :heavy_check_mark: 단계 별 개발 과정, 분석 결과 및 시각화
+## :heavy_check_mark: 단계 별 개발 과정, 분석 결과 및 시각화
+### 1. 설계 및 데이터 수집
+
+### 2. OTT와 영화 흥행 관계 분석
+
+
+### 3. OTT와 영화 장르 관계 분석
+
+
+### 4. OTT와 특별 상영관 관계 분석
+
 
 ***
 
-### :bell: 최종 결론 및 개선 방안
+## :bell: 최종 결론 및 개선 방안
+### 영화 상영 업체들의 현황 및 추세
+
+
+### 영화 상영 업체들의 사업 전략

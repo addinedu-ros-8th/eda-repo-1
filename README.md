@@ -7,12 +7,12 @@
 
 
 <img src="https://github.com/user-attachments/assets/31b5d722-1fc4-4ff7-853f-47ce0e9342e4" width="400" height="150"/>  <img src="https://github.com/user-attachments/assets/4a088b2b-8f3b-428f-af94-6e80da0ae8af" width="400" height="150"/>                               
-<img src="https://github.com/user-attachments/assets/dbde6505-4fc0-4162-ae8f-9d26b3fe32e5" width="400" height="150"/>  <img src="https://github.com/user-attachments/assets/4d815d95-13ca-4500-b2dd-799223fd65f2" width="400" weight="150/">
-
+<img src="https://github.com/user-attachments/assets/dbde6505-4fc0-4162-ae8f-9d26b3fe32e5" width="400" height="150"/>  <img src="https://github.com/user-attachments/assets/4d815d95-13ca-4500-b2dd-799223fd65f2" width="400" weight="150/">                                               
 위의 뉴스 헤드에서 영화 산업이 그리 좋지 않은 상황이라는 것을 알 수 있다.                                   
-![image](https://github.com/user-attachments/assets/a6cd10a3-c6df-4e6b-9dcd-d82e75ed3c9e)
 
-영화 산업에서 가장 큰 변화는 아마 OTT의 출현과 코로나이지 않을까 싶다. 대부분의 OTT 서비스들이 시작한 연도는 2016년으로 확인이 되는데 OTT 산업들이 인기를 얻기 시작한 것은 2019-2020년도 코로나 시기부터로 보인다. 이를 두고 정말 OTT는 코로나로 인해 인기를 얻었는지 또한 그로 인해 영화 산업은 어떻게 변했는지 알아보기 위해 이 프로젝트를 시작했다.
+영화 산업에서 가장 큰 변화는 아마 OTT의 출현과 코로나라고 생각한다.                           
+![image](https://github.com/user-attachments/assets/a6cd10a3-c6df-4e6b-9dcd-d82e75ed3c9e)                                    
+가장 대표적인 OTT인 NETFLIX가 서비스를 시작한 연도는 2016년으로 확인이 되는데 OTT 산업들이 인기를 얻기 시작하고 다양한 OTT 서비스들이 나오기 시작한 것은 2019-2020년도 코로나 시기부터로 보인다. 
                                                
 우리 1조는 OTT의 인기로 인해 영화 산업이 크게 타격을 입은 것은 코로나 이후인 2019년도로 보고 그로 인해 코로나가 회복된 지금까지 영화관에서 인기있는 장르와 상영 방식이 코로나 이전과 비교해서 차이가 있을것이다는 가설을 세워 이를 확인하고자 데이터 분석과 시각화를 진행했다.
 ***

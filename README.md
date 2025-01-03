@@ -173,7 +173,7 @@
 
 ![image](https://github.com/user-attachments/assets/7e385565-4ff7-4134-b8a0-96878c584c11)
 
-OTT의 경우엔 OTT를 포함한 동영상 서비스를 대체로 혼자 시청한다의 비율이 높았다.
+OTT의 경우엔 OTT를 포함한 동영상 서비스를 대체로 혼자 시청한다의 비율이 높았다. 또한 메조미디어에 따르면 일평균 OTT 시청 시간은 70분 정도이다.  
 
 ![image](https://github.com/user-attachments/assets/7a2e0448-4acd-41d4-808e-f0a793f83ff0)
 

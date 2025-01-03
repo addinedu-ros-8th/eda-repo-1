@@ -35,7 +35,8 @@
 - 소주제1 : 영화 산업의 연도별 추이를 통한 OTT와 코로나 이후의 영화 매출 추이 확인
 - 소주제2 : OTT와 코로나 이후의 장르 흥행 추이 확인
 - 소주제3 : 장르 흥행 추이에 따른 특별상영관 매출 추이
-- 최종: 영화 산업의 전체적인 매츨이 줄었으나 특정 장르들과 특정 상영관에 대해서는 매출이 변화가 크지 않거나 증가할 것이다. 
+- 최종: 영화 산업의 전체적인 매츨이 줄었으나 특정 장르들과 특정 상영관에 대해서는 매출이 변화가 크지 않거나 증가할 것이다.
+
 
 |기간|계획|
 |-----|-----|
@@ -63,39 +64,79 @@
 
 #### 전체 ERD 
 ![image](https://github.com/user-attachments/assets/d2b4e225-d585-44a3-94d2-ff8360304f8e)
+전체 영화 장르에 스크린타입에 Foreign Key를 주고 연결 
+
+***movie TABLE***
+![image](https://github.com/user-attachments/assets/86566dc1-aba6-43f6-af55-f1d3314f4eb6)
+
+박스오피스 top 50
+(2014~2023)
+영화의 전체 차트
+year:개봉년도
+month:개봉년도
+sale: 매출 
+audience:관객수
+screen : 스크린수
+screen_number : 상영횟수
+
+
+***screen TABLE***
+![image](https://github.com/user-attachments/assets/a70bcee9-76f6-4fd8-8598-c892115ef35d)
+
+특별상영관 data
+name : 영화 이름
+year : 개봉 년도 
+screen_type : 스크린 종류
+screening : 스크린별 상영횟수
+sale : 스크린별 매출
+audience :  스크린별 관객수
 
 
 
-### 1. 영화 연도별 매출 추이 
 
-#### 1-1. 연도별 관객수 
+### 2. OTT별 매출액 비교 
+![image](https://github.com/user-attachments/assets/d64dbe53-5c1d-4cc7-b795-35ef93cdb622)
+넷플릭스가 나머지 OTT에 비해 압도적으로 강세. 따라서 OTT 흥행 시기를 넷플릭스를 기준으로 잡게 됨
+
+### 3. 영화 연도별 매출 추이 
+#### 전체 추이 정리
+
+|-----|-----|
+|2016|Netflix 한국 서비스 시작|약간의 하락세, 금방 회복|
+|2019|코로나 시작 직전 |가장 높은 위치|
+|2020|코로나 시작 시점 |급격한 하락|
+
+
+#### 3-1. 연도별 관객수 
 ![image](https://github.com/user-attachments/assets/2ee900fc-eb8d-4bd7-a2b9-49de3e20d0ca)
 
-#### 1-2. 연도별 매출수 
+
+#### 3-2. 연도별 매출수 
 ![image](https://github.com/user-attachments/assets/f5a5dd9c-7e48-45f0-8748-7f508b0995a0)
 
-#### 1-3. 연도별 스크린 수
+#### 3-3. 연도별 스크린 수
 ![image](https://github.com/user-attachments/assets/d9796aef-a09d-4f7a-ae80-c1d431a5746b)
 
 
 
-### 2. 영화 장르 추이 
+### 4. 영화 장르 추이 
 
-#### 2-1. OTT 이전/이후 관객수 
+#### 4-1. OTT 이전/이후 관객수 
 ![image](https://github.com/user-attachments/assets/17b2b91a-60d9-4b42-bd0a-3b3b99dda2c5)
 
-#### 2-2. OTT 이전/이후 개봉 영화 개수
+#### 4-2. OTT 이전/이후 개봉 영화 개수
 ![image](https://github.com/user-attachments/assets/51908a08-b839-4808-ad4c-8596ef0de20d)
 
-#### 2-3. OTT 이전/ 이후 매출 
+#### 4-3. OTT 이전/ 이후 매출 
 ![image](https://github.com/user-attachments/assets/867e9d0c-5f18-4da1-82b7-e16881c427b5)
 
 
-### 3. 특별 상영관 변화 추이(변경 가능성 有)
+### 5. 특별 상영관 변화 추이(변경 가능성 有)
 
-#### 3-1. 
+#### 5-1. 상영 타입별 스크린 수 총합
 ![image](https://github.com/user-attachments/assets/daf4023f-8ef7-4b81-9adb-92803de347bb)
 
+#### 5-2. 상영 타입별 매출액
 ![image](https://github.com/user-attachments/assets/51ea82c3-d3d3-46d2-9a4c-4bc3839eb608)
 
 
@@ -103,6 +144,8 @@
 ***
 
 ## :bell: 최종 결론 및 개선 방안
+사람들이 OTT 산업이 발전한 이후 이전에 비해 특별 상영관 선호도가 높아짐
+영화관에 가서 좀 더 몰입감 있고 좋은 화면, 재밌고 흥미로운 경험을 하고 싶어하는 경향이 있음을 알 수 있음
 
 ### 
 

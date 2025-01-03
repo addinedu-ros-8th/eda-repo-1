@@ -35,7 +35,7 @@
 - 소주제1 : 영화 산업의 연도별 추이를 통한 OTT와 코로나 이후의 영화 매출 추이 확인
 - 소주제2 : OTT와 코로나 이후의 장르 흥행 추이 확인
 - 소주제3 : 장르 흥행 추이에 따른 특별상영관 매출 추이
-- 최종 : OTT와 박스오피스 흥행 장르의 차이 및 영화의 변화
+- 최종: 영화 산업의 전체적인 매츨이 줄었으나 특정 장르들과 특정 상영관에 대해서는 매출이 변화가 크지 않거나 증가할 것이다. 
 
 |기간|계획|
 |-----|-----|
@@ -48,9 +48,9 @@
 ## :sparkles: 구성원 및 역할
 |구성원|역할|
 |-----|-----|
-|심재헌(팀장)| 영화 스크린타입 데이터 추출 및 분석&시각과|
+|심재헌(팀장)| 영화 스크린타입 데이터 추출 및 분석&시각화|
 |이정림| 영화, 장르 추이 분석 및 시각화, ReadME 작성, AWS DB 관리, 발표자료 작성|
-|임승연| OTT 및 영화 장르 흥행 차이 분석 및 시각화, ERD 작성|
+|임승연| OTT 및 영화 장르 흥행 차이 분석 및 시각화, ERD 작성, AWS DB 관리|
 
 ***
 
@@ -61,18 +61,49 @@
 ## :heavy_check_mark: 단계 별 개발 과정, 분석 결과 및 시각화
 ### 1. 설계 및 데이터 수집
 
-### 2. 온/오프라인 문화 산업 추이
+#### 전체 ERD 
+![image](https://github.com/user-attachments/assets/d2b4e225-d585-44a3-94d2-ff8360304f8e)
 
 
-### 3. 문화 산업의 흐름에 따른 OTT, 영화 산업 추이
+
+### 1. 영화 연도별 매출 추이 
+
+#### 1-1. 연도별 관객수 
+![image](https://github.com/user-attachments/assets/2ee900fc-eb8d-4bd7-a2b9-49de3e20d0ca)
+
+#### 1-2. 연도별 매출수 
+![image](https://github.com/user-attachments/assets/f5a5dd9c-7e48-45f0-8748-7f508b0995a0)
+
+#### 1-3. 연도별 스크린 수
+![image](https://github.com/user-attachments/assets/d9796aef-a09d-4f7a-ae80-c1d431a5746b)
 
 
-### 4. 특별 상영관 변화 추이(변경 가능성 有)
+
+### 2. 영화 장르 추이 
+
+#### 2-1. OTT 이전/이후 관객수 
+![image](https://github.com/user-attachments/assets/17b2b91a-60d9-4b42-bd0a-3b3b99dda2c5)
+
+#### 2-2. OTT 이전/이후 개봉 영화 개수
+![image](https://github.com/user-attachments/assets/51908a08-b839-4808-ad4c-8596ef0de20d)
+
+#### 2-3. OTT 이전/ 이후 매출 
+![image](https://github.com/user-attachments/assets/867e9d0c-5f18-4da1-82b7-e16881c427b5)
+
+
+### 3. 특별 상영관 변화 추이(변경 가능성 有)
+
+#### 3-1. 
+![image](https://github.com/user-attachments/assets/daf4023f-8ef7-4b81-9adb-92803de347bb)
+
+![image](https://github.com/user-attachments/assets/51ea82c3-d3d3-46d2-9a4c-4bc3839eb608)
+
 
 
 ***
 
 ## :bell: 최종 결론 및 개선 방안
+
 ### 
 
 

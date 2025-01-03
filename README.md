@@ -89,6 +89,7 @@ screen_number : 상영횟수
 ![image](https://github.com/user-attachments/assets/a70bcee9-76f6-4fd8-8598-c892115ef35d)
 
 특별상영관 data
+
 name : 영화 이름
 year : 개봉 년도 
 screen_type : 스크린 종류

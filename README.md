@@ -76,26 +76,12 @@
 
 박스오피스 top 50
 (2014~2023)
-영화의 전체 차트
-year:개봉년도
-month:개봉년도
-sale: 매출 
-audience:관객수
-screen : 스크린수
-screen_number : 상영횟수
 
 
 ***screen TABLE***
 ![image](https://github.com/user-attachments/assets/a70bcee9-76f6-4fd8-8598-c892115ef35d)
 
 특별상영관 data
-
-name : 영화 이름
-year : 개봉 년도 
-screen_type : 스크린 종류
-screening : 스크린별 상영횟수
-sale : 스크린별 매출
-audience :  스크린별 관객수
 
 
 
